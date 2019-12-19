@@ -1,4 +1,10 @@
-# Auto-LaTex-Toolkit
+## University of New Orleans
+## Mentor: Dr. Minhaz Zibran
+## Project Start Date: 01/01/2017 
+## Project End Date: 05/01/2017
+
+
+# Auto-LaTex-Toolkit:
 This tool was developed to be used an enhancement to the popular LaTex software. Key points about this tool is written below
   
     * It provides automated conversion between abbreviated and elborated publication venues in .bib files
